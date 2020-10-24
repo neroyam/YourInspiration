@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Todo.TutorialsPage"
+             Title="Туториалы">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout x:Name="mainStackLayout" Margin="10"/>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
